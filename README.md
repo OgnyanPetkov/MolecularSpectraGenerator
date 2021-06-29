@@ -1,5 +1,6 @@
 # MolecularSpectraGenerator
 Useful tool for molecular spectra generation. Can be used to to simulate particular rotational lines in various experimental conditions. </br>
+Used packages: NumPy, SciPy, MatplotLib (for data manipulation and visualization) and Tkinter (for user-friendly GUI)</br>
 All levels are presented in inverse cm. </br>
 G - transition energy (vibrational/electronic transition)</br>
 B - rotational constant</br>
